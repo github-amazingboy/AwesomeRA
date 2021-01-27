@@ -1,2 +1,2 @@
 # AwesomeRA
-greate RA Project
+Great RA Project
